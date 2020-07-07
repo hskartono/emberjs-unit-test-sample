@@ -1,7 +1,18 @@
 # demo-test
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Contoh unit test ember js.
+
+Cara menjalankan unit test:
+
+```ember t --query=nolint```
+
+atau pakai filter
+
+```ember t --query=nolint --filter="nama"```
+
+atau akses melalui url
+
+http://localhost:4200/tests
 
 ## Prerequisites
 
